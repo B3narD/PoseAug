@@ -3,6 +3,12 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/poseaug-a-differentiable-pose-augmentation/3d-human-pose-estimation-on-human36m)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-human36m?p=poseaug-a-differentiable-pose-augmentation)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/poseaug-a-differentiable-pose-augmentation/3d-human-pose-estimation-on-mpi-inf-3dhp)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-mpi-inf-3dhp?p=poseaug-a-differentiable-pose-augmentation)
 
+# This is a fork from [PoseAug](https://github.com/jfzhang95/PoseAug/tree/f469ce4a6fb3da0b7e5ba21d796c02f61e3e5caf)
+
+
+
+
+
 
 # PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation
 Code repository for the paper:  
